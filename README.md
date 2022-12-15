@@ -1,5 +1,6 @@
 # EECS 545 Project: ICA SeFa - A New Efficient Algorithm to do Latent Semantics Factorization in GANs
 Our final project for EECS545 Machine Learning (W21) at the University of Michigan
+
 Instructor: Professor Honglak Lee
 
 Please cite with:
